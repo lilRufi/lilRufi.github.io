@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/Rauf/Nebula/ROOT/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "<31LINK TO RSS FEED>",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
