@@ -30,7 +30,7 @@
           "artifact": {
             "size": 5034429,
             "MD5": "8e450771d40abc3592e35e5a33246437",
-            "url": "https://lilrufi.github.io/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2836/forge-1.12.2-14.23.5.2836-universal.jar"
+            "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2836/forge-1.12.2-14.23.5.2836-universal.jar"
           },
           "subModules": [
             {
